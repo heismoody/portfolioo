@@ -1,0 +1,75 @@
+@media screen and (max-width: 540px) {
+    body {
+        width: 100%;
+    }
+    .logo_img {
+        display: none;
+    }
+    .aboutme_container {
+        padding: 0 8px;
+        display: block;
+    }
+    .personal_pic {
+        display: none;
+    }
+    .about_moody {
+        padding-top: 30px;
+        font-size: 30px;
+    }
+    .about_content {
+        font-size: 15px;
+        width: 100%;
+        padding-bottom: 20px;
+    }
+    .skills_bigcontainer {
+        width: 100%;
+    }
+    .about_container {
+        width: 100%;
+    }
+    .mycontact {
+        display: block;
+    }
+    .googlemap {
+        width: 100%;
+    }
+    .textarea_class {
+        width: 100%;
+    }
+    .contacticon_container {
+        width: 100%;
+    }
+    .contact_div {
+        height: fit-content;
+    }
+    .myservices_div {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-gap: 5px;
+        width: 100%;
+    }
+    .webdesign {
+        width: 150px;
+    }
+    .services_div {
+        height: fit-content;
+    }
+    .service_header {
+        padding: 5px 0;
+    }
+    #service_content {
+        font-size: 12px;
+    }
+    .contact_title {
+        font-size: 15px;
+    }
+    .contacticon_container {
+        font-size: 10px;
+    }
+    .names {
+        font-size: 12px;
+    }
+    #resp {
+        font-size: 10px;
+    }
+}
