@@ -38,7 +38,7 @@
         width: 100%;
     }
     .textarea_class {
-        width: 100%;
+        width: 90%;
     }
     .contacticon_container {
         width: 100%;
@@ -75,5 +75,33 @@
     }
     #resp {
         font-size: 10px;
+    }
+    .maps {
+        text-align: center;
+        padding-bottom: 5px;
+    }
+    iframe {
+        width: 300px;
+        height: 200px;
+    }
+    footer {
+        position: relative;
+        padding: 10px 0;
+    }
+    #ixcons {
+        text-align: center;
+        font-size: 20px;
+    }
+    #ixcons_twit {
+        text-align: center;
+        font-size: 20px;
+    }
+    #ixcons_phone {
+        text-align: center;
+        font-size: 20px;
+    }
+    #ixcons_mail {
+        text-align: center;
+        font-size: 20px;
     }
 }
