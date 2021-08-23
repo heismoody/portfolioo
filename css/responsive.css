@@ -2,11 +2,15 @@
     body {
         width: 100%;
     }
-    .logo_img {
+    nav {
         display: none;
+    }
+    .about_me {
+        height: fit-content;
     }
     .aboutme_container {
         padding: 0 8px;
+        height: fit-content;
         display: block;
     }
     .personal_pic {
