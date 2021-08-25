@@ -2,18 +2,22 @@
     body {
         width: 100%;
     }
-    .logo_img {
+    nav {
         display: none;
+    }
+    .about_me {
+        height: fit-content;
     }
     .aboutme_container {
         padding: 0 8px;
+        height: fit-content;
         display: block;
     }
     .personal_pic {
         display: none;
     }
     .about_moody {
-        padding-top: 30px;
+        padding-top: 10px;
         font-size: 30px;
     }
     .about_content {
@@ -34,7 +38,7 @@
         width: 100%;
     }
     .textarea_class {
-        width: 100%;
+        width: 90%;
     }
     .contacticon_container {
         width: 100%;
@@ -46,7 +50,6 @@
         display: grid;
         grid-template-columns: auto auto;
         grid-gap: 5px;
-        width: 100%;
     }
     .webdesign {
         width: 150px;
@@ -70,6 +73,59 @@
         font-size: 12px;
     }
     #resp {
+        font-size: 8px;
+    }
+    .maps {
+        text-align: center;
+        padding-bottom: 5px;
+    }
+    iframe {
+        width: 300px;
+        height: 200px;
+    }
+    footer {
+        background: rgba(0, 0, 0, 0.95);
+        position: relative;
+        padding: 10px 0;
+        color: #fff;
+        font-size: 8px;
+    }
+    .h4twitter_content {
+        font-size: 8px;
+    }
+    .head {
+        font-size: 9px;
+    }
+    #ixcons {
+        text-align: center;
+        font-size: 20px;
+    }
+    #ixcons_twit {
+        text-align: center;
+        font-size: 20px;
+    }
+    #ixcons_phone {
+        text-align: center;
+        font-size: 20px;
+    }
+    #ixcons_mail {
+        text-align: center;
+        font-size: 20px;
+    }
+    .button_container {
+        padding-bottom: 10px
+    }
+    .service_header {
+        font-size: 20px;
+    }
+    #icons {
+        font-size: 20px;
+    }
+    .webdesign_icon {
+        width: 40px;
+        height: 40px;
+    }
+    #service_title {
         font-size: 10px;
     }
 }
