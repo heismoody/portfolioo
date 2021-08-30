@@ -18,12 +18,16 @@
 /*------------------------ SCROLLING CSS -------------------*/
 
 ::-webkit-scrollbar {
-    width: 5px;
+    width: 2px;
 }
 
 ::-webkit-scrollbar-thumb {
     background: black;
     border-radius: 20px;
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
 }
 
 
