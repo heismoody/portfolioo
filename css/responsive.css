@@ -140,9 +140,13 @@
     #service_title {
         font-size: 10px;
     }
+<<<<<<< HEAD
     hr {
         width: 90px;
         height: 2px;
         border: none;
     }
 }
+=======
+}
+>>>>>>> 545ee122ef3f4f1029a58ea63e8d8d0f1c5a822e
