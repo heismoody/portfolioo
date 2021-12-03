@@ -429,7 +429,7 @@ h5 {
 
 .services_div {
     padding: 0 10px 0 10px;
-    background: aquamarine;
+    background-color: rgb(235, 223, 223);
     width: 100%;
     height: 100vh;
 }
